@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Sample Page"
-date:   2018-06-07 11:15:29 +0530
-categories: plotthings
----
-This is a sample page!!!
