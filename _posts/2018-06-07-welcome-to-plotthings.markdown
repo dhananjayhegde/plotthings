@@ -5,7 +5,7 @@ date:   2018-06-07 11:15:29 +0530
 categories: plotthings
 ---
 As of now, I do not have any great misson with this repo.
-This will serve as a learning stage for me and hopefully someone else too who is just beginning with matplotlib, data science and dat avisualization etc.
+This will serve as a learning stage for me and hopefully someone else too who is just beginning with matplotlib, data science and data avisualization etc.
 
 Also, this will give me a hands on experience in maintaining GitHub repo.
 
