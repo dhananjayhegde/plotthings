@@ -15,9 +15,9 @@ I would highly appreciate if you can contribute some interesting yet simple char
 
 ## How it is done
 
-	- I am using [Jekyll](https://jekyllrb.com/) to build the posts
-	- Theme used is [minima](https://github.com/jekyll/minima/)
-	- I create Jupyter Notebooks and then download them as `.html` pages and then add them to `_posts/` folder
+- I am using [Jekyll](https://jekyllrb.com/) to build the posts
+- Theme used is [minima](https://github.com/jekyll/minima/)
+- I create Jupyter Notebooks and then download them as `.html` pages and then add them to `_posts/` folder
 
 As of now, I am doing it manually.  I am not sure if I can use any automation tools to do this.  I will explore some.
 
@@ -28,10 +28,10 @@ This is because it causes the page to be rendered to right-part of the browser w
 
 ## How to add new posts
 
-	- Fork the repo
-	- Add new post in `_posts/` folder
-	- Make sure name it `yyyy-mm-dd-post-name.md` or `yyyy-mm-dd-post-name.markdow` or `yyyy-mm-dd-post-name.html`
-	- Make sure to include the YAML **FrontMatter** else it will it not be picked for *build* by [Jekyll](https://jekyllrb.com/)
-	- Once done, I will really appreciate if you create a pull request
+- Fork the repo
+- Add new post in `_posts/` folder
+- Make sure name it `yyyy-mm-dd-post-name.md` or `yyyy-mm-dd-post-name.markdow` or `yyyy-mm-dd-post-name.html`
+- Make sure to include the YAML **FrontMatter** else it will it not be picked for *build* by [Jekyll](https://jekyllrb.com/)
+- Once done, I will really appreciate if you create a pull request
 
 
